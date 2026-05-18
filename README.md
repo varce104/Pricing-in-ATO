@@ -1,4 +1,4 @@
-# Thesis title: Pricing decision in Assemble-to-Order Systems
+# Thesis title: Pricing decision in Assemble-to-Order Systems (OLD)
 
 The codes correspond to the different configurations of the multi component, multi product ATO model. Some key definitions before going to the model itself:
 
